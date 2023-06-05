@@ -4,7 +4,7 @@ from datetime import datetime, date
 import csv
 
 EXCLUDE_CLASSES = [
-    "CCP",
+    "MAE",
     "FWDD",
     "BMK2"
 ]
